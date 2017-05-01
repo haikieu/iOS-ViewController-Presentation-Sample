@@ -12,10 +12,10 @@ alt="Video demo" width="240" height="180" border="10" /></a>
 ## Screenshots
 
 ### Ipad screenshot 1
-![View Controller presentation screenshot ipad](https://raw.githubusercontent.com/haikieu/iOS-ViewController-Presentation-Sample/master/screenshot-ipad.png)
+![View Controller presentation screenshot ipad](https://raw.githubusercontent.com/haikieu/iOS-ViewController-Presentation-Sample/master/screenshot-ipad-2.png)
 
 ### Ipad screenshot 2
-![View Controller presentation screenshot ipad](https://raw.githubusercontent.com/haikieu/iOS-ViewController-Presentation-Sample/master/screenshot-ipad-2.png)
+![View Controller presentation screenshot ipad](https://raw.githubusercontent.com/haikieu/iOS-ViewController-Presentation-Sample/master/screenshot-ipad.png)
 
 ### Iphone screenshot 1
 ![View Controller presentation screenshot iphone](https://raw.githubusercontent.com/haikieu/iOS-ViewController-Presentation-Sample/master/screenshot-iphone.png)
