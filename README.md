@@ -4,7 +4,11 @@
 + Pushing 
 + Showing popover
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mFFJFNkWESM
+" target="_blank"><img src="http://img.youtube.com/vi/mFFJFNkWESM/0.jpg" 
+alt="Video demo" width="240" height="180" border="10" /></a>
 --------------------
+
 ## Screenshots
 
 ### Ipad screenshot 1
